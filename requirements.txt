@@ -1,0 +1,7 @@
+############ Requirement package for aop-helpFinder.py ############
+#  To use it, simply write "sudo pip install -r requirements.txt" #
+#            Or "sudo pip3 install -r requirements.txt"           #
+############  Requirements without Version Specifiers  ############
+argparse
+argcomplete
+tqdm

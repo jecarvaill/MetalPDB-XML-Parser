@@ -1,0 +1,564 @@
+<metalPDB>
+	<site>
+		<site_name>101d_1</site_name>
+		<pdb_code>101d</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>No binding chains</site_location>
+		<site_chain>
+			<molecule_name>DNA (5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*(CBR)P*GP*CP*G)-3')</molecule_name>
+			<pdb_name>101d_A</pdb_name>
+			<molecule_type>dna</molecule_type>
+			<letter>A</letter>
+		</site_chain>
+		<metal>
+			<periodic_symbol>Mg</periodic_symbol>
+			<coordination_number>3</coordination_number>
+			<chain_letter>A</chain_letter>
+			<geometry>irregular (n/a)</geometry>
+			<atom_pdb_name>MG</atom_pdb_name>
+			<residue_pdb_number>26</residue_pdb_number>
+			<residue_name>MG</residue_name>
+			<periodic_name>Magnesium</periodic_name>
+			<atom_pdb_number>491</atom_pdb_number>
+			<ligand>
+				<residue_pdb_number>61</residue_pdb_number>
+				<residue_name>HOH</residue_name>
+				<chain_letter>A</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>2.164</distance>
+					<atom_pdb_number>536</atom_pdb_number>
+					<atom_pdb_name>O</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Main chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<residue_pdb_number>60</residue_pdb_number>
+				<residue_name>HOH</residue_name>
+				<chain_letter>B</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>2.101</distance>
+					<atom_pdb_number>557</atom_pdb_number>
+					<atom_pdb_name>O</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Main chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<residue_pdb_number>62</residue_pdb_number>
+				<residue_name>HOH</residue_name>
+				<chain_letter>B</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>2.11</distance>
+					<atom_pdb_number>558</atom_pdb_number>
+					<atom_pdb_name>O</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Main chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+		<site_name>101m_1</site_name>
+		<pdb_code>101m</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>A</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Physeter catodon</taxonomy_name>
+			<molecule_name>Myoglobin</molecule_name>
+			<pdb_name>101m_A</pdb_name>
+			<uniprot>P02185</uniprot>
+		</site_chain>
+		<pfam>Globin</pfam>
+		<cath>1.10.490.10</cath>
+		<scop>a.1.1.2</scop>
+		<structural_cles_id>25423</structural_cles_id>
+		<functional_cles_id>33458</functional_cles_id>
+		<metal>
+			<periodic_symbol>Fe</periodic_symbol>
+			<coordination_number>6</coordination_number>
+			<chain_letter>A</chain_letter>
+			<ligands_pattern>H</ligands_pattern>
+			<geometry>octahedron (regular)</geometry>
+			<atom_pdb_name>FE</atom_pdb_name>
+			<residue_pdb_number>155</residue_pdb_number>
+			<residue_name>HEM</residue_name>
+			<periodic_name>Iron</periodic_name>
+			<atom_pdb_number>1228</atom_pdb_number>
+			<metal_position>2</metal_position>
+			<cofactor>Fe-Heme</cofactor>
+			<ligand>
+				<residue_pdb_number>156</residue_pdb_number>
+				<residue_name>NBN</residue_name>
+				<chain_letter>A</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>2.11</distance>
+					<atom_pdb_number>1271</atom_pdb_number>
+					<atom_pdb_name>C</atom_pdb_name>
+					<atom_symbol>C</atom_symbol>
+					<interaction_type>Main chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<residue_pdb_number>155</residue_pdb_number>
+				<residue_name>HEM</residue_name>
+				<chain_letter>A</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>1.987</distance>
+					<atom_pdb_number>1260</atom_pdb_number>
+					<atom_pdb_name>ND</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>1.971</distance>
+					<atom_pdb_number>1233</atom_pdb_number>
+					<atom_pdb_name>NA</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>2.059</distance>
+					<atom_pdb_number>1252</atom_pdb_number>
+					<atom_pdb_name>NC</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>1.929</distance>
+					<atom_pdb_number>1244</atom_pdb_number>
+					<atom_pdb_name>NB</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>52.49</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>93</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>A</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>28.7%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.203</distance>
+					<atom_pdb_number>744</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+		<site_name>102m_1</site_name>
+		<pdb_code>102m</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>A</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Physeter catodon</taxonomy_name>
+			<molecule_name>Myoglobin</molecule_name>
+			<pdb_name>102m_A</pdb_name>
+			<uniprot>P02185</uniprot>
+		</site_chain>
+		<pfam>Globin</pfam>
+		<cath>1.10.490.10</cath>
+		<scop>a.1.1.2</scop>
+		<structural_cles_id>25423</structural_cles_id>
+		<functional_cles_id>33458</functional_cles_id>
+		<metal>
+			<periodic_symbol>Fe</periodic_symbol>
+			<coordination_number>6</coordination_number>
+			<chain_letter>A</chain_letter>
+			<ligands_pattern>H</ligands_pattern>
+			<geometry>octahedron (regular)</geometry>
+			<atom_pdb_name>FE</atom_pdb_name>
+			<residue_pdb_number>155</residue_pdb_number>
+			<residue_name>HEM</residue_name>
+			<periodic_name>Iron</periodic_name>
+			<atom_pdb_number>1227</atom_pdb_number>
+			<metal_position>2</metal_position>
+			<cofactor>Fe-Heme</cofactor>
+			<ligand>
+				<solvent_accessibility_absolute>53.06</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>93</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>A</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>29.0%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.103</distance>
+					<atom_pdb_number>743</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<residue_pdb_number>155</residue_pdb_number>
+				<residue_name>HEM</residue_name>
+				<chain_letter>A</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>1.95</distance>
+					<atom_pdb_number>1232</atom_pdb_number>
+					<atom_pdb_name>NA</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>1.962</distance>
+					<atom_pdb_number>1243</atom_pdb_number>
+					<atom_pdb_name>NB</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>2.018</distance>
+					<atom_pdb_number>1251</atom_pdb_number>
+					<atom_pdb_name>NC</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>1.958</distance>
+					<atom_pdb_number>1259</atom_pdb_number>
+					<atom_pdb_name>ND</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<residue_pdb_number>156</residue_pdb_number>
+				<residue_name>HOH</residue_name>
+				<chain_letter>A</chain_letter>
+				<endo_exo>exogenous</endo_exo>
+				<donor>
+					<distance>2.1</distance>
+					<atom_pdb_number>1270</atom_pdb_number>
+					<atom_pdb_name>O</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Main chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+	<site>
+		<site_name>1a0b_1</site_name>
+		<pdb_code>1a0b</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>A</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Escherichia coli</taxonomy_name>
+			<molecule_name>Aerobic respiration control sensor protein ArcB</molecule_name>
+			<pdb_name>1a0b_A</pdb_name>
+			<ec_number>2.7.3.-</ec_number>
+			<uniprot>P0AEC3</uniprot>
+		</site_chain>
+		<pfam>Hpt</pfam>
+		<cath>1.20.120.160</cath>
+		<scop>a.24.10.1</scop>
+		<structural_cles_id>16360</structural_cles_id>
+		<functional_cles_id>21037</functional_cles_id>
+		<metal>
+			<periodic_symbol>Zn</periodic_symbol>
+			<coordination_number>4</coordination_number>
+			<chain_letter>A</chain_letter>
+			<ligands_pattern>HX(25)EX(3)E</ligands_pattern>
+			<geometry>trigonal bipyramid with a vacancy (axial) (distorted)</geometry>
+			<atom_pdb_name>ZN</atom_pdb_name>
+			<residue_pdb_number>800</residue_pdb_number>
+			<residue_name>ZN</residue_name>
+			<periodic_name>Zinc</periodic_name>
+			<atom_pdb_number>921</atom_pdb_number>
+			<metal_position>1</metal_position>
+			<ligand>
+				<solvent_accessibility_absolute>31.24</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>758</residue_pdb_number>
+				<residue_name>GLU</residue_name>
+				<chain_letter>A</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>18.1%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.395</distance>
+					<atom_pdb_number>783</atom_pdb_number>
+					<atom_pdb_name>OE1</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>2.069</distance>
+					<atom_pdb_number>784</atom_pdb_number>
+					<atom_pdb_name>OE2</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>36.26</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>728</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>A</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>19.8%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.094</distance>
+					<atom_pdb_number>536</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>66.58</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>754</residue_pdb_number>
+				<residue_name>GLU</residue_name>
+				<chain_letter>A</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>38.7%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.455</distance>
+					<atom_pdb_number>749</atom_pdb_number>
+					<atom_pdb_name>OE2</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+		<site_name>1a0q_1</site_name>
+		<pdb_code>1a0q</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>H</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Mus musculus</taxonomy_name>
+			<molecule_name>29G11 FAB (HEAVY CHAIN)</molecule_name>
+			<pdb_name>1a0q_H</pdb_name>
+			<uniprot>P01869</uniprot>
+		</site_chain>
+		<pfam>V-set</pfam>
+		<cath>2.60.40.10</cath>
+		<scop>b.1.1.1</scop>
+		<structural_cles_id>20220</structural_cles_id>
+		<functional_cles_id>26194</functional_cles_id>
+		<metal>
+			<periodic_symbol>Zn</periodic_symbol>
+			<coordination_number>2</coordination_number>
+			<chain_letter>H</chain_letter>
+			<ligands_pattern>D</ligands_pattern>
+			<geometry>irregular (n/a)</geometry>
+			<atom_pdb_name>ZN</atom_pdb_name>
+			<residue_pdb_number>213</residue_pdb_number>
+			<residue_name>ZN</residue_name>
+			<periodic_name>Zinc</periodic_name>
+			<atom_pdb_number>3188</atom_pdb_number>
+			<metal_position>1</metal_position>
+			<ligand>
+				<solvent_accessibility_absolute>66.39</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>56</residue_pdb_number>
+				<residue_name>ASP</residue_name>
+				<chain_letter>H</chain_letter>
+				<secondary_structure>Turn</secondary_structure>
+				<solvent_accessibility_relative>47.3%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.858</distance>
+					<atom_pdb_number>2076</atom_pdb_number>
+					<atom_pdb_name>OD1</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>2.926</distance>
+					<atom_pdb_number>2077</atom_pdb_number>
+					<atom_pdb_name>OD2</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+		<site_name>1a0q_2</site_name>
+		<pdb_code>1a0q</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>L</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Mus musculus</taxonomy_name>
+			<molecule_name>Ig kappa chain C region</molecule_name>
+			<pdb_name>1a0q_L</pdb_name>
+			<uniprot>P01837</uniprot>
+		</site_chain>
+		<pfam>C1-set</pfam>
+		<cath>2.60.40.10</cath>
+		<scop>b.1.1.2</scop>
+		<structural_cles_id>19795</structural_cles_id>
+		<functional_cles_id>25591</functional_cles_id>
+		<metal>
+			<periodic_symbol>Zn</periodic_symbol>
+			<coordination_number>3</coordination_number>
+			<chain_letter>L</chain_letter>
+			<ligands_pattern>EX(3)H</ligands_pattern>
+			<geometry>irregular (n/a)</geometry>
+			<atom_pdb_name>ZN</atom_pdb_name>
+			<residue_pdb_number>214</residue_pdb_number>
+			<residue_name>ZN</residue_name>
+			<periodic_name>Zinc</periodic_name>
+			<atom_pdb_number>3186</atom_pdb_number>
+			<metal_position>5</metal_position>
+			<ligand>
+				<solvent_accessibility_absolute>34.07</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>189</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>L</chain_letter>
+				<secondary_structure>Beta strand</secondary_structure>
+				<solvent_accessibility_relative>18.6%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.789</distance>
+					<atom_pdb_number>1460</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>36.33</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>185</residue_pdb_number>
+				<residue_name>GLU</residue_name>
+				<chain_letter>L</chain_letter>
+				<secondary_structure>Alpha helix</secondary_structure>
+				<solvent_accessibility_relative>21.1%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.845</distance>
+					<atom_pdb_number>1418</atom_pdb_number>
+					<atom_pdb_name>OE2</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+				<donor>
+					<distance>2.732</distance>
+					<atom_pdb_number>1417</atom_pdb_number>
+					<atom_pdb_name>OE1</atom_pdb_name>
+					<atom_symbol>O</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+	<site>
+		<site_name>1a1j_3</site_name>
+		<pdb_code>1a1j</pdb_code>
+		<site_nuclearity>Mononuclear</site_nuclearity>
+		<site_location>Within a Chain</site_location>
+		<site_chain>
+			<letter>A</letter>
+			<molecule_type>protein</molecule_type>
+			<taxonomy_name>Mus musculus</taxonomy_name>
+			<molecule_name>Early growth response protein 1</molecule_name>
+			<pdb_name>1a1j_A</pdb_name>
+			<uniprot>P08046</uniprot>
+		</site_chain>
+		<pfam>zf-C2H2</pfam>
+		<pfam>zf-H2C2_2</pfam>
+		<cath>3.30.160.60</cath>
+		<scop>g.37.1.1</scop>
+		<structural_cles_id>26086</structural_cles_id>
+		<functional_cles_id>34472</functional_cles_id>
+		<metal>
+			<periodic_symbol>Zn</periodic_symbol>
+			<coordination_number>4</coordination_number>
+			<chain_letter>A</chain_letter>
+			<ligands_pattern>CX(4)CX(12)HX(3)H</ligands_pattern>
+			<geometry>tetrahedron (regular)</geometry>
+			<atom_pdb_name>ZN</atom_pdb_name>
+			<residue_pdb_number>201</residue_pdb_number>
+			<residue_name>ZN</residue_name>
+			<periodic_name>Zinc</periodic_name>
+			<atom_pdb_number>1161</atom_pdb_number>
+			<metal_position>5</metal_position>
+			<ligand>
+				<solvent_accessibility_absolute>10.34</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>107</residue_pdb_number>
+				<residue_name>CYS</residue_name>
+				<chain_letter>A</chain_letter>
+				<solvent_accessibility_relative>7.7%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.411</distance>
+					<atom_pdb_number>488</atom_pdb_number>
+					<atom_pdb_name>SG</atom_pdb_name>
+					<atom_symbol>S</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>22.64</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>112</residue_pdb_number>
+				<residue_name>CYS</residue_name>
+				<chain_letter>A</chain_letter>
+				<solvent_accessibility_relative>16.9%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.431</distance>
+					<atom_pdb_number>523</atom_pdb_number>
+					<atom_pdb_name>SG</atom_pdb_name>
+					<atom_symbol>S</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>71.23</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>129</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>A</chain_letter>
+				<solvent_accessibility_relative>38.9%</solvent_accessibility_relative>
+				<donor>
+					<distance>1.954</distance>
+					<atom_pdb_number>684</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+			<ligand>
+				<solvent_accessibility_absolute>19.18</solvent_accessibility_absolute>
+				<endo_exo>endogenous</endo_exo>
+				<residue_pdb_number>125</residue_pdb_number>
+				<residue_name>HIS</residue_name>
+				<chain_letter>A</chain_letter>
+				<solvent_accessibility_relative>10.5%</solvent_accessibility_relative>
+				<donor>
+					<distance>2.107</distance>
+					<atom_pdb_number>647</atom_pdb_number>
+					<atom_pdb_name>NE2</atom_pdb_name>
+					<atom_symbol>N</atom_symbol>
+					<interaction_type>Side chain</interaction_type>
+				</donor>
+			</ligand>
+		</metal>
+	</site>
+</metalPDB>

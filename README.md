@@ -21,7 +21,7 @@ This program is compatible with python 3.x.
 
 ### Installation & usage from sources
 
-1. Clone this repo `git clone https://github.com/jcarvaill/`
+1. Clone this repo `git clone https://github.com/jcarvaill/MetalPDB-XML-Parser`
 2. Install dependancies:
 
    2.1. Using pip (and use python environment system)

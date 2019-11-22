@@ -6,7 +6,9 @@ This quick and dirty software parse xml (flat_db_file) MetalPDB database and do 
 This is based on a parsing process and for statistics part, do your own statistics function.
 
 ```text
-MetalPDB (http://metalweb.cerm.unifi.it/) is a database providing information on metal binding sites detected in three-dimensional (3D) structures of biological macromolecules (Putignano V. et al. Nucleic Acid Res. 2018).
+MetalPDB (http://metalweb.cerm.unifi.it/) is a database providing information on metal binding sites
+detected in three-dimensional (3D) structures of biological macromolecules
+(Putignano V. et al. Nucleic Acid Res. 2018).
 ```
 
 Software implemented for 'Interactions et mécanismes d'assemblage des protéines et des peptides' Team, I2BC CNRS UMR 9198.
